@@ -1,0 +1,23 @@
+.red-opentap{
+    color: red;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header{
+    font-family: 'Roboto', sans-serif;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+}
+
+i{
+ font-weight:bolder;
+}
+
+.small-text-italic{
+    font-style: italic;
+    font-size: medium;
+    font-weight: bold;
+}
+
